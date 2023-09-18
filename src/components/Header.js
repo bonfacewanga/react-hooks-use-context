@@ -11,6 +11,7 @@ function Header({ theme, setTheme, user, setUser }) {
       setUser(defaultUser);
     }
   }
+  
 
   return (
     <header>
